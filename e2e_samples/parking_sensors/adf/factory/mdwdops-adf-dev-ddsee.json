@@ -1,0 +1,9 @@
+{
+	"name": "mdwdops-adf-dev-ddsee",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "62b7d2d6-c4a5-4b6f-ac28-495fb8b19302",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
